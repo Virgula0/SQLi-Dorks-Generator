@@ -8,6 +8,6 @@ Enjoy!
 
 If you like this share and you want leave me something you can donate to 
 BTC Address: 18pm5hUEXmkXFVmbFsyHPMMAsnCkEyQJmW
-Or paypal: https://paypal.me/Virgula0
+Or paypal: https://paypal.me/Virgula
 
 Thank You!
