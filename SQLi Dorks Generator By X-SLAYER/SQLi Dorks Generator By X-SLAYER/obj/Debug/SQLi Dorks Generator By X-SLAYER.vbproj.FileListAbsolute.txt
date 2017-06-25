@@ -1,0 +1,22 @@
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.exe
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.pdb
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.xml
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi_Dorks_Generator_By_X_SLAYER.Form1.resources
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi_Dorks_Generator_By_X_SLAYER.Resources.resources
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.vbproj.GenerateResource.Cache
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.exe
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.xml
+c:\users\iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.pdb
+C:\Users\Iheb\documents\visual studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.exe.config
+C:\Users\Iheb\Documents\Visual Studio 2013\Projects\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.vbprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.exe.config
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.exe
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.pdb
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\bin\Debug\SQLi Dorks Generator By X-SLAYER.xml
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.vbprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi_Dorks_Generator_By_X_SLAYER.Form1.resources
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi_Dorks_Generator_By_X_SLAYER.Resources.resources
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.vbproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.exe
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.xml
+C:\Users\Angelo\Desktop\SQLi Dorks Generator By X-SLAYER\SQLi Dorks Generator By X-SLAYER\obj\Debug\SQLi Dorks Generator By X-SLAYER.pdb
