@@ -1,2 +1,13 @@
 # SQLi-Dorks-Generator
-Coded By X-Slayer
+Here we go!
+You are a cracker and you want to make easly good dorks to search vulnerable sites with google search engine?
+This tool is what it do for you! Coded by X-Slayer you can make some dorks file with you page name example: index and followed by 
+extensions like .php .asp .aspx and others.... 
+After, you can try to hack database with SQL Injection to retrivie good and your personal Combolist to crack accounts! 
+Enjoy!
+
+If you like this share and you want leave me something you cane donate to 
+BTC Address: 18pm5hUEXmkXFVmbFsyHPMMAsnCkEyQJmW
+Or paypal: https://paypal.me/Virgula0
+
+Thank You!
