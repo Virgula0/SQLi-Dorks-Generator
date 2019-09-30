@@ -6,9 +6,3 @@ extensions like .php .asp .aspx and others....
 Then you can try to hack database with SQL Injection to retrivie good and personal Combolist to crack accounts! 
 Enjoy!
 
-If you like this share and you want leave me something you can donate to 
-BTC Address: 18pm5hUEXmkXFVmbFsyHPMMAsnCkEyQJmW
-Or paypal: https://paypal.me/Virgula
-
-Thank You!
-
